@@ -27,11 +27,12 @@
     {
         "defaults":
         {
-            "antialiasingMode": "cleartype",
+            "antialiasingMode": "aliased",
             "colorScheme": "One Half Dark",
             "fontFace": "CaskaydiaCove Nerd Font",
             "scrollbarState": "visible",
-            "useAcrylic": true
+            "useAcrylic": true,
+            "acrylicOpacity": 0.5
         },
         "list":
         [
