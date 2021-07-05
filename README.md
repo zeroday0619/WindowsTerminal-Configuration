@@ -1,6 +1,9 @@
 # **Windows Terminal** Configuration
 
 Configuration for **[Microsoft Windows Terminal](https://github.com/microsoft/terminal)**
+[![demo](./demo/demo.png)](https://github.com/zeroday0619/WindowsTerminal-Configuration)
+
+
 
 ## System environment
 
