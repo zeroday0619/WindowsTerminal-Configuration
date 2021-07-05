@@ -1,4 +1,4 @@
-# **Windows Terminal** Config
+# **Windows Terminal** Configuration
 
 Configuration for **[Microsoft Windows Terminal](https://github.com/microsoft/terminal)**
 
